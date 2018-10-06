@@ -57,6 +57,11 @@ footer{
 	text-decoration-color: white;
 }
 
+button{
+	background-color: blue;
+	padding: 20px;
+}
+
 .copyright{
 	float: left;
 }
